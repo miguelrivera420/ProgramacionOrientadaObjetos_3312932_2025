@@ -1,0 +1,7 @@
+[
+    {"vendedor": "Miguel", "mes": "Enero", "ventas": 1200},
+    {"vendedor": "Monik", "mes": "Enero", "ventas": 1500},
+    {"vendedor": "Miguel", "mes": "Febrero", "ventas": 800},
+    {"vendedor": "Monik", "mes": "Febrero", "ventas": 2100},
+    {"vendedor": "Andrés", "mes": "Enero", "ventas": 900}
+]

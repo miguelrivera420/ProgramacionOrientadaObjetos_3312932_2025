@@ -1,0 +1,22 @@
+[
+    {
+        "producto": "Laptop",
+        "precio": 800.0,
+        "cantidad": 10
+    },
+    {
+        "producto": "Mouse Gamer",
+        "precio": 25.5,
+        "cantidad": 3
+    },
+    {
+        "producto": "Teclado Mecánico",
+        "precio": 45.0,
+        "cantidad": 2
+    },
+    {
+        "producto": "Monitor 4K",
+        "precio": 300.0,
+        "cantidad": 7
+    }
+]

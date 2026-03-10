@@ -1,0 +1,5 @@
+[
+    {"id": 1, "proyecto": "E-commerce", "horas": 120, "estado": "Completado"},
+    {"id": 2, "proyecto": "App Móvil", "horas": 85, "estado": "En proceso"},
+    {"id": 3, "proyecto": "Pruebas QA", "horas": 45, "estado": "En proceso"}
+]

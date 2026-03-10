@@ -1,0 +1,12 @@
+[
+    {
+        "producto": "Mouse Gamer",
+        "precio": 25.5,
+        "cantidad": 3
+    },
+    {
+        "producto": "Teclado Mecánico",
+        "precio": 45.0,
+        "cantidad": 2
+    }
+]
